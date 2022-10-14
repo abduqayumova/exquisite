@@ -1,0 +1,21 @@
+li{
+    display: inline;
+   padding-left: 80px;
+   color:aliceblue;
+}
+div{
+    background-image: url(https://img.pac.ru/resorts/213094/419924/big/9E9050017F0001011ECEE4A618059A1A.jpg);
+    
+}
+h1{
+    color:rgb(233, 249, 249);
+    padding-top: 100px;
+  
+}
+p{
+    color:rgb(229, 243, 243);
+    
+}
+ul{
+    padding-top: 0px;
+}
